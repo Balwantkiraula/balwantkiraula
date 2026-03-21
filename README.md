@@ -1,16 +1,50 @@
-## Hi there 👋
+## 🚀 Hi, I'm Balwant Kiraula
 
-<!--
-**Balwantkiraula/balwantkiraula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+🌱 Currently learning React, Redux & Full Stack Development
+⚡ Love building interactive UI & animations
+🎯 Goal: Become a skilled Full Stack Developer
+🧠 Interested in AI-based learning apps & physics visualizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+🚀 Frontend
+HTML, CSS, JavaScript
+React.js
+Tailwind CSS
+⚙️ Backend
+Node.js (Learning)
+🗄️ Database
+MongoDB
+PostgreSQL
+🔧 Tools
+Git & GitHub
+VS Code
+Vercel
+
+Projects
+
+🛒 E-Commerce Website
+🛍️ Product listing with dynamic data
+🔍 Search & filter functionality
+🛒 Add to cart & remove items
+💳 Checkout page UI
+🔐 Authentication (Login/Signup)
+📱 Fully responsive design
+Tech Used: React, Redux, Tailwind CSS, 
+
+🌦️ Weather Dashboard
+Live weather app using API
+Auto location detection
+Responsive UI
+
+
+📚 AI Tutor App (In Progress)
+Interactive learning platform
+Focus on physics animations
+
+
+
+🌐 Connect With Me
+💼 LinkedIn   :  https://www.linkedin.com/in/balwant-kiraula/
