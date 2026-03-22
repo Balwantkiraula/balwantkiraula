@@ -3,7 +3,7 @@
 💻 Frontend Developer | React Enthusiast | Problem Solver
 
 👨‍💻 About Me
-🌱 Currently learning React, Redux & Full Stack Development
+🌱 Currently learning React, Redux & Full Stack Development MERN
 ⚡ Love building interactive UI & animations
 🎯 Goal: Become a skilled Full Stack Developer
 🧠 Interested in AI-based learning apps & physics visualizations
