@@ -12,6 +12,7 @@
 🚀 Frontend
 HTML, CSS, JavaScript
 React.js
+Next js
 Tailwind CSS
 ⚙️ Backend
 Node.js (Learning)
